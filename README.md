@@ -1,5 +1,5 @@
 # brainfuck-rkt
-Simple brainfuck interpreter written in Racket
+Simple [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Racket
 
 Submission for https://www.hackerrank.com/challenges/brainf-k-interpreter-fp
 
