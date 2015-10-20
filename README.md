@@ -8,4 +8,4 @@ Run brainfuck.rkt and give the .rkt program input in the format:
 - Second line: Input to BF program, terminated by $ character
 - Rest of lines: BF program
 
-Sample program included in helloworld.bf
+Sample program included in helloworld.bf, sourced from wikipedia article
